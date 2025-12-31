@@ -87,6 +87,8 @@ Tuesday	n. 星期二
 
 [**https://github.com/kajweb/dict**](https://github.com/kajweb/dict) → fork → [**https://github.com/KyleBing/dict**](https://github.com/KyleBing/dict) → 简化 → 本库
 
+配套在线背单词网站项目：[**https://github.com/heygsc/word-wind**](https://github.com/heygsc/word-wind)
+
 **初衷**  
 有些时候需要单词和释义的 txt 列表，只是单纯的单词列表，结果网上找一圈全是文库里的，还要充会员，相当恶心。  
 有点分享精神好不好，为了方便大家用于学习使用放 github 了。  
